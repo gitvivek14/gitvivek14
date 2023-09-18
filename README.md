@@ -38,7 +38,7 @@ I'm a tech enthusiast who finds the beauty of innovation in lines of code and ci
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=gitvivek14">
 </p>
--->
+
 ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=gitvivek14&show_icons=true"><p>
@@ -48,6 +48,7 @@ I'm a tech enthusiast who finds the beauty of innovation in lines of code and ci
 <p><img src="https://metrics.lecoq.io/gitvivek14"><p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gitvivek14"><p>
+-->
 
 <!--
 **gitvivek14/gitvivek14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
