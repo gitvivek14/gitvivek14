@@ -29,15 +29,16 @@ I'm a tech enthusiast who finds the beauty of innovation in lines of code and ci
 <p>
 </p>
 
-## 🌟 Github Badges
+<!--## 🌟 Github Badges
 <p>
 </p>
+-->
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=gitvivek14">
 </p>
-
+-->
 ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=gitvivek14&show_icons=true"><p>
