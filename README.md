@@ -25,6 +25,8 @@ I'm a tech enthusiast who finds the beauty of innovation in lines of code and ci
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
   <br>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40px" style="margin-left:10px"/> </a> 
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" 
+                                                                     height="40" style="margin-left:10px"/> </a>
 </p>
 
 ## 👥 Connect With Me
