@@ -32,7 +32,7 @@ I'm a tech enthusiast who finds the beauty of innovation in lines of code and ci
 ## 👥 Connect With Me
 <p>
 </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitvivek14" alt="gitvivek14" /></a> </p>
 <!--## 🌟 Github Badges
 <p>
 </p>
