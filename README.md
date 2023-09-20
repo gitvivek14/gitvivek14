@@ -1,3 +1,10 @@
+<link href="https://fonts.googleapis.com/css?family=Russo+One" rel="stylesheet">
+
+<svg viewBox="0 0 1320 300">
+	<text x="50%" y="50%" dy=".35em" text-anchor="middle">
+		Welcome
+	</text>
+</svg>	
 # Hi there 👋, My name is Vivek Arora
 
 I'm a tech enthusiast who finds the beauty of innovation in lines of code and circuitry. When I'm not in the digital realm, I'm an avid movie buff, savoring stories that transport me to new worlds. Good humor is my compass, guiding me through the ups and downs of life's adventure.
