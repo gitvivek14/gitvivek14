@@ -72,10 +72,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<script src="https://unpkg.com/typeit@8.7.1/dist/index.umd.js"></script
-  import TypeIt from "typeit";
-  new TypeIt("#element", {
-  strings: "This is my string!",
-  speed: 75,
-  loop: true,
-}).go();
