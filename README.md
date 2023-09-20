@@ -37,12 +37,7 @@ I'm a tech enthusiast who finds the beauty of innovation in lines of code and ci
 <p>
 </p>
 -->
-<p id="simpleUsage"></p>
-new TypeIt("#simpleUsage", {
-    strings: "This is a simple string.",
-    speed: 50,
-    waitUntilVisible: true,
-}).go();
+
 
 <!--## 🏆 GitHub Trophies
 
