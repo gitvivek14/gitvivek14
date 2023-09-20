@@ -39,6 +39,8 @@ I'm a tech enthusiast who finds the beauty of innovation in lines of code and ci
 -->
 
 
+
+
 <!--## 🏆 GitHub Trophies
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=gitvivek14">
@@ -69,3 +71,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<script src="https://unpkg.com/typeit@8.7.1/dist/index.umd.js"></script
+  import TypeIt from "typeit";
+  new TypeIt("#element", {
+  strings: "This is my string!",
+  speed: 75,
+  loop: true,
+}).go();
