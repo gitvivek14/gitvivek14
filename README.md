@@ -104,7 +104,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gitvivek14/gitvivek14/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
