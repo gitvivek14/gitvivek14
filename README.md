@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">hey there,👋</h1>
+<h1 align="center">hey there,👋,I'm Vivek Arora</h1>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Hi there 👋, My name is Vivek Arora<br><br><br>I'm a tech enthusiast who finds the beauty of innovation in lines of code and circuitry. When I'm not in the digital realm, I'm an avid movie buff, savoring stories that transport me to new worlds. Good humor is my compass, guiding me through the ups and downs of life's adventure.</p>
+<p align="left">I'm a tech enthusiast who finds the beauty of innovation in lines of code and circuitry. When I'm not in the digital realm, I'm an avid movie buff, savoring stories that transport me to new worlds. Good humor is my compass, guiding me through the ups and downs of life's adventure.</p>
 
 ###
 
