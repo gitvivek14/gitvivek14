@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">hey there,👋,I'm Vivek Arora</h1>
+<h1 align="center">hey there,👋</h1>
 
 ###
 
